@@ -21,5 +21,9 @@ pip install scikit-learn
  <br></br>
 
  ```
-pip install yahoo-finance
+pip install numpy
+```
+ <br></br>
+```
+pip install statsmodel
 ```

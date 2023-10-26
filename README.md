@@ -13,17 +13,14 @@ Install the following libraries : <br></br>
 ```
 pip install pandas
 ```
- <br></br>
 
 ```
 pip install scikit-learn
 ```
- <br></br>
 
  ```
 pip install numpy
 ```
- <br></br>
 ```
 pip install statsmodel
 ```
